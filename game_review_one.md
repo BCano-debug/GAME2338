@@ -3,7 +3,7 @@
 ## Details
 
 ### Game Title
-Paper Mario
+Paper Mario:
 Thinner Mario, Bigger Adventure!
 
 ### Rating
